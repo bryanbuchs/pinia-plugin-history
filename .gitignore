@@ -4,7 +4,7 @@ npm-debug.log
 yarn-error.log
 .nyc_output
 coverage.lcov
-dist
+#dist
 package-lock.json
 yarn.lock
 .DS_Store
