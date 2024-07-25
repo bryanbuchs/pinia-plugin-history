@@ -1,3 +1,7 @@
+## [2.0.3](https://github.com/emahuni/pinia-plugin-history/compare/v2.0.2...v2.0.3) (2024-07-25)
+
+
+
 ## [2.0.2](https://github.com/emahuni/pinia-plugin-history/compare/v2.0.1...v2.0.2) (2022-12-31)
 
 ### Docs
